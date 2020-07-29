@@ -17,3 +17,8 @@
 
 - `HEAD`: where you are currently looking (i.e., what the files on your computer are)
 
+## Remotes
+
+- `git remote add <URL`: adds a remote url
+- `git push origin master`: local -> remote
+- `git pull origin master`: remote -> local
