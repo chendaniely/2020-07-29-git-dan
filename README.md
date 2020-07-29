@@ -1,4 +1,4 @@
-# 2020-07-29-git-dan
+# Git basics class
 
 ## The basics
 
