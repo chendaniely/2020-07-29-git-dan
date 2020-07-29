@@ -1,4 +1,12 @@
-# 2020-07-29: Git basics class
+# 2020-07-29: Git basics c
+
+Some resources:
+
+- https://chendaniely.github.io/training_ds_r/help-faq.html
+- https://happygitwithr.com/
+- https://swcarpentry.github.io/git-novice/
+- https://www.youtube.com/watch?v=uvWhSYBkZJ0
+- Setting up ssh links: https://bi-sdal.github.io/training/ssh-keys.html
 
 ## The basics
 
