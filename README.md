@@ -1,4 +1,4 @@
-# 2020-07-29: Git basics c
+# 2020-07-29: Git basics class
 
 Some resources:
 
